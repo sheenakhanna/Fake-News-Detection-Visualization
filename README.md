@@ -1,5 +1,6 @@
 # Fake-News-Detection-Visualization
-The dataset consists of 1164 samples each having 4 attributes
+The dataset consists of 1164 samples each having 4 attributes.
+
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/66938192/187741613-f662a947-f8ad-4362-85ff-9ce9e328fb1b.png">
 Changing fake and true labels to 0 or 1s.
 
